@@ -1,1 +1,1 @@
-# odin-recipes
+Assignment from The Odin Project; foundations; creating an ugly recipe site. 
